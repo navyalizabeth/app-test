@@ -1,1 +1,3 @@
-newfile content
+newfile content 
+
+changes after first commit
